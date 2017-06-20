@@ -6,4 +6,8 @@
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
         MsgBox("EAT SHIT !")
     End Sub
+
+    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
+        MsgBox("SHIT EAT !")
+    End Sub
 End Class
