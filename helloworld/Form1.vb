@@ -10,4 +10,8 @@
     Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
         MsgBox("SHIT EAT !")
     End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        MsgBox("DAYUM !")
+    End Sub
 End Class
